@@ -11,8 +11,8 @@
     <groupId>com.usa.ciclo3</groupId>
     <artifactId>Reto3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Reto 3</name>
-    <description>Reto 3</description>
+    <name>Reto3</name>
+    <description>Reto3</description>
     <properties>
         <java.version>11</java.version>
     </properties>
